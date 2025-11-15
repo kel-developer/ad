@@ -1,8 +1,8 @@
 {
   "text": "Introducing iPhone 18", 
-  "textColor" = "white", 
+  "textColor": "white", 
   "symbol": "bag", 
-  "symbolColor" = "white", 
+  "symbolColor": "white", 
   "backdropColor" : "black", 
   "showBanner": true, 
   "rotateAd" : false
