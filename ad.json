@@ -1,7 +1,7 @@
 {
-  "bannerText": "Introducing iPhone 18",
-  "showBanner": true
-  "darkMode" : true
+  "bannerText": "Introducing iPhone 18", 
+  "symbol": "bag", 
+  "showBanner": true, 
+  "darkMode" : true, 
   "rotateAd" : false
-  "symbol": "bag"
 }
