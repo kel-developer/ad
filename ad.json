@@ -2,8 +2,6 @@
   "showAd": false,
   "text": "長路漫漫是如何走過~",
   "symbol": "music.microphone",
-  "symbolDelay": 2,
-  "symbolSpeed" : 0,
   "url": "https://www.apple.com/",
   "adURL": "https://github.com/kel-developer"
 }
