@@ -1,7 +1,7 @@
 {
   "showAd": true,
-  "text": "Tesla Roadster",
-  "symbol": "car.side.fill",
+  "text": "Tesla Semi",
+  "symbol": "truck.box",
   "url": "https://www.tesla.com/roadster",
   "adURL": "https://github.com/kel-developer"
 }
