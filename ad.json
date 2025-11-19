@@ -1,5 +1,9 @@
 {
-  "text": "Introducing iPhone Air 2",
-  "symbol": "apple.logo",
-  "url": "https://www.apple.com/"
+  "showAd": true,
+  "text": "見字飲水",
+  "symbol": "waterbottle",
+  "symbolDelay": 4,
+  "symbolSpeed" : 0,
+  "url": "https://www.apple.com/",
+  "adURL": "https://github.com/kel-developer"
 }
