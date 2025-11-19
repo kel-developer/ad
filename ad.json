@@ -1,9 +1,9 @@
 {
   "showAd": true,
-  "text": "親 見字飲水",
-  "symbol": "waterbottle",
+  "text": "長路漫漫 如何走過",
+  "symbol": "music.microphone",
   "symbolDelay": 2,
-  "symbolSpeed" : 2,
+  "symbolSpeed" : 0,
   "url": "https://www.apple.com/",
   "adURL": "https://github.com/kel-developer"
 }
