@@ -1,7 +1,7 @@
 {
-  "showAd": false,
-  "text": "長路漫漫是如何走過~",
-  "symbol": "music.microphone",
-  "url": "https://www.apple.com/",
+  "showAd": true,
+  "text": "Testa Cybercab",
+  "symbol": "car.side.fill",
+  "url": "https://www.tesla.com/robotaxi",
   "adURL": "https://github.com/kel-developer"
 }
