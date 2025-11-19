@@ -2,8 +2,8 @@
   "showAd": true,
   "text": "見字飲水",
   "symbol": "waterbottle",
-  "symbolDelay": 4,
-  "symbolSpeed" : 0,
+  "symbolDelay": 0,
+  "symbolSpeed" : 2,
   "url": "https://www.apple.com/",
   "adURL": "https://github.com/kel-developer"
 }
