@@ -2,6 +2,7 @@
   "showAd": true,
   "text": "Destination: Osaka",
   "symbol": "airplane.path.dotted",
+  "hasLink": true,
   "url": "https://www.apple.com/homepod-2nd-generation/",
   "adURL": "https://github.com/kel-developer"
 }
