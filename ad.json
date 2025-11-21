@@ -2,7 +2,7 @@
   "showAd": true,
   "text": "Steam Machine unveiled",
   "symbol": "gamecontroller.fill",
-  "symbolColorInt": 12,
+  "symbolColorInt": 1,
   "hasLink": true,
   "url": "https://www.apple.com/homepod-2nd-generation/",
   "adURL": "https://github.com/kel-developer"
