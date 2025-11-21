@@ -1,8 +1,8 @@
 {
   "showAd": true,
   "text": "Steam Machine unveiled",
-  "symbol": "figure.hiking",
-  "symbolColorInt": 10,
+  "symbol": "heart.fill",
+  "symbolColorInt": 0,
   "hasLink": true,
   "url": "https://www.apple.com/homepod-2nd-generation/",
   "adURL": "https://github.com/kel-developer"
