@@ -1,8 +1,10 @@
 {
   "showAd": true,
-  "text": "No Connection",
-  "symbol": "xmark.icloud.fill",
-  "symbolColorInt": 0,
+  "text": "BBQ",
+  "symbol": "cloud.sun.rain.fill",
+  "symbolColorIntUn": 0,
+  "symbolColorIntDeux": 0,
+  "symbolColorIntTrois": 0,
   "hasLink": true,
   "url": "https://www.apple.com/",
   "showAdMarker": true
