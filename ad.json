@@ -1,9 +1,9 @@
 {
   "showAd": true,
-  "text": "多運動",
-  "symbol": "tree.fill",
+  "text": "No Connection",
+  "symbol": "xmark.icloud.fill",
   "symbolColorInt": 0,
   "hasLink": true,
-  "url": "https://www.apple.com/homepod-2nd-generation/",
+  "url": "https://www.apple.com/",
   "adURL": "https://github.com/kel-developer"
 }
