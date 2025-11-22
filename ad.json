@@ -9,5 +9,6 @@
   "url": "https://www.apple.com/",
   "showAdMarker": true,
   "adMarkerText": "廣告",
+  "adMarkerBackdropColorInt": 7,
   "adMarkerURL": "https://github.com/kel-developer"
 }
