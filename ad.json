@@ -1,10 +1,10 @@
 {
   "showAd": true,
-  "text": "BBQ",
-  "symbol": "cloud.sun.rain.fill",
-  "symbolColorIntUn": 0,
-  "symbolColorIntDeux": 0,
-  "symbolColorIntTrois": 0,
+  "text": "Mac Pro with M5 Ultra",
+  "symbol": "macpro.gen3.fill",
+  "symbolColorIntUn": 12,
+  "symbolColorIntDeux": 12,
+  "symbolColorIntTrois": 12,
   "hasLink": true,
   "url": "https://www.apple.com/",
   "showAdMarker": true
