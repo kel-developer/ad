@@ -1,14 +1,12 @@
 {
   "showAd": true,
-  "text": "Mac Pro with M5 Ultra",
-  "symbol": "macpro.gen3.fill",
+  "text": "AirPods Pro 3 Available Now",
+  "symbol": "airpods.pro",
   "symbolColorIntUn": 12,
-  "symbolColorIntDeux": 13,
-  "symbolColorIntTrois": 2,
-  "hasLink": true,
+  "symbolColorIntDeux": 1,
+  "symbolColorIntTrois": 12,
+  "hasLink": false,
   "url": "https://www.apple.com/",
   "showAdMarker": true,
-  "adMarkerText": "廣告",
-  "adMarkerBackdropColorInt": 1,
   "adMarkerURL": "https://github.com/kel-developer"
 }
