@@ -1,14 +1,14 @@
 {
   "showAd": true,
-  "text": "網路異常",
-  "symbol": "exclamationmark.triangle.fill",
-  "symbolColorIntUn": 14,
+  "text": "Mac Pro with M5 Ultra",
+  "symbol": "macpro.gen3.fill",
+  "symbolColorIntUn": 12,
   "symbolColorIntDeux": 13,
   "symbolColorIntTrois": 2,
   "hasLink": true,
   "url": "https://www.apple.com/",
   "showAdMarker": true,
-  "adMarkerText": "警告",
-  "adMarkerBackdropColorInt": 0,
+  "adMarkerText": "廣告",
+  "adMarkerBackdropColorInt": 7,
   "adMarkerURL": "https://github.com/kel-developer"
 }
