@@ -5,7 +5,7 @@
   "symbolColorIntUn": 12,
   "symbolColorIntDeux": 7,
   "symbolColorIntTrois": 12,
-  "hasLink": false,
+  "hasLink": true,
   "url": "https://www.apple.com/",
   "showAdMarker": true,
   "adMarkerURL": "https://github.com/kel-developer"
