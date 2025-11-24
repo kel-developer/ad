@@ -1,11 +1,11 @@
 {
   "showAd": true,
-  "text": "Xbox Series X",
+  "text": "Xbox Series S",
   "symbol": "gamecontroller.fill",
-  "symbolColorIntUn": 3,
-  "symbolColorIntDeux": 13,
+  "symbolColorIntUn": 10,
+  "symbolColorIntDeux": 12,
   "symbolColorIntTrois": 12,
-  "hasLink": true,
+  "hasLink": false,
   "url": "https://www.apple.com/",
   "showAdMarker": true
 }
