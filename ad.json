@@ -1,8 +1,8 @@
 {
   "showAd": true,
-  "text": "Xbox Series S",
+  "text": "Xbox",
   "symbol": "gamecontroller.fill",
-  "symbolColorIntUn": 6,
+  "symbolColorIntUn": 1,
   "symbolColorIntDeux": 12,
   "symbolColorIntTrois": 12,
   "hasLink": false,
