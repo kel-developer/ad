@@ -2,10 +2,10 @@
   "showAd": true,
   "text": "Xbox",
   "symbol": "gamecontroller.fill",
-  "symbolColorIntUn": 1,
+  "symbolColorIntUn": 3,
   "symbolColorIntDeux": 12,
   "symbolColorIntTrois": 12,
-  "hasLink": true,
+  "hasLink": false,
   "url": "https://www.apple.com/",
   "showAdMarker": true
 }
