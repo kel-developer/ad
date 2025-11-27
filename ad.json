@@ -1,8 +1,8 @@
 {
   "showAd": true,
-  "text": "Xbox Series X",
-  "symbol": "gamecontroller.fill",
-  "symbolColorIntUn": 4,
+  "text": "PlayStation®5 Pro",
+  "symbol": "xbox.logo",
+  "symbolColorIntUn": 3,
   "symbolColorIntDeux": 12,
   "symbolColorIntTrois": 12,
   "hasLink": false,
