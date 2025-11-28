@@ -1,11 +1,11 @@
 {
   "showAd": true,
-  "text": "PlayStation®5 Pro",
-  "symbol": "playstation.logo",
-  "symbolColorIntUn": 20,
+  "text": "Xbox Series X",
+  "symbol": "xbox.logo",
+  "symbolColorIntUn": 3,
   "symbolColorIntDeux": 12,
   "symbolColorIntTrois": 12,
-  "hasLink": false,
+  "hasLink": true,
   "url": "https://www.apple.com/",
   "showAdMarker": true
 }
