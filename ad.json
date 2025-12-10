@@ -5,7 +5,7 @@
   "symbolColorIntUn": 7,
   "symbolColorIntDeux": 12,
   "symbolColorIntTrois": 12,
-  "hasLink": true,
+  "hasLink": false,
   "url": "https://www.apple.com/",
   "showAdMarker": true,
   "requestReview": true
